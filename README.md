@@ -46,6 +46,11 @@ OutletPOC/
 
 ## UI Architecture
 
+<img width="3840" height="1919" alt="pickme_food_architecture_diagram" src="https://github.com/user-attachments/assets/d9426a32-2e5b-4e46-9c7a-aaf34aff7b05" />
+
+<img width="3840" height="1980" alt="pickme_food_sequence_diagram" src="https://github.com/user-attachments/assets/462340ea-d027-4b95-9287-980b8a6164ef" />
+
+
 ### 1) Schema‑Driven Composition
 - **SectionSchema** declares:
   - `id: SectionKind`, `headerTitle`, `layout: LayoutStyle`, `isSticky`, `items: [ItemSchema]`
