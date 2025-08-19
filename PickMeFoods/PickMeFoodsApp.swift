@@ -11,7 +11,7 @@ import SwiftUI
 struct PickMeFoodsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OutletView()
         }
     }
 }
