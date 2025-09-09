@@ -52,14 +52,14 @@ class OutletPOCViewModel: ObservableObject {
                 id: .lunch,
                 headerTitle: SectionKind.lunch.rawValue,
                 layout: .list,
-                isSticky: true,
+                isSticky: false,
                 items: lunchItems
             ),
             SectionSchema(
                 id: .dinner,
                 headerTitle: SectionKind.dinner.rawValue,
                 layout: .list,
-                isSticky: true,
+                isSticky: false,
                 items: dinnerItems
             ),
             SectionSchema(

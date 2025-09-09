@@ -1,4 +1,4 @@
-# PickMe Foods – View Architecture
+# View Architecture
 
 A tiny, presentation‑ready SwiftUI POC of the **Outlet and Foods Home** screen for the PickMe Foods vertical (Uber‑Eats style).  
 Focus areas: high‑performance rendering, low‑boilerplate cell/view generation, easy evolution, and robust UI behavior.
